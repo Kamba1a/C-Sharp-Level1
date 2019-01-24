@@ -1,0 +1,7 @@
+D:\users\kam\source\repos\Lesson1\Task1_Task2-questionary_BMI\bin\Debug\Task1_Task2-questionary_BMI.exe.config
+D:\users\kam\source\repos\Lesson1\Task1_Task2-questionary_BMI\bin\Debug\Task1_Task2-questionary_BMI.exe
+D:\users\kam\source\repos\Lesson1\Task1_Task2-questionary_BMI\bin\Debug\Task1_Task2-questionary_BMI.pdb
+D:\users\kam\source\repos\Lesson1\Task1_Task2-questionary_BMI\obj\Debug\Task1_Task2-questionary_BMI.csprojAssemblyReference.cache
+D:\users\kam\source\repos\Lesson1\Task1_Task2-questionary_BMI\obj\Debug\Task1_Task2-questionary_BMI.csproj.CoreCompileInputs.cache
+D:\users\kam\source\repos\Lesson1\Task1_Task2-questionary_BMI\obj\Debug\Task1_Task2-questionary_BMI.exe
+D:\users\kam\source\repos\Lesson1\Task1_Task2-questionary_BMI\obj\Debug\Task1_Task2-questionary_BMI.pdb

@@ -1,0 +1,6 @@
+D:\users\kam\source\repos\Lesson1\Task5-Print\bin\Debug\Task5-Print.exe.config
+D:\users\kam\source\repos\Lesson1\Task5-Print\bin\Debug\Task5-Print.exe
+D:\users\kam\source\repos\Lesson1\Task5-Print\bin\Debug\Task5-Print.pdb
+D:\users\kam\source\repos\Lesson1\Task5-Print\obj\Debug\Task5-Print.csproj.CoreCompileInputs.cache
+D:\users\kam\source\repos\Lesson1\Task5-Print\obj\Debug\Task5-Print.exe
+D:\users\kam\source\repos\Lesson1\Task5-Print\obj\Debug\Task5-Print.pdb
