@@ -1,0 +1,6 @@
+D:\users\kam\source\repos\Lesson1\Task3-pointsDistance\bin\Debug\Task3-pointsDistance.exe.config
+D:\users\kam\source\repos\Lesson1\Task3-pointsDistance\bin\Debug\Task3-pointsDistance.exe
+D:\users\kam\source\repos\Lesson1\Task3-pointsDistance\bin\Debug\Task3-pointsDistance.pdb
+D:\users\kam\source\repos\Lesson1\Task3-pointsDistance\obj\Debug\Task3-pointsDistance.csproj.CoreCompileInputs.cache
+D:\users\kam\source\repos\Lesson1\Task3-pointsDistance\obj\Debug\Task3-pointsDistance.exe
+D:\users\kam\source\repos\Lesson1\Task3-pointsDistance\obj\Debug\Task3-pointsDistance.pdb
