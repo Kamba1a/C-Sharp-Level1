@@ -17,18 +17,7 @@ namespace Task4_checkData
 
         static bool checkData(string login, string password)
         {
-            if (login == "root" && password == "GeekBrains")
-            {
-                Console.WriteLine("Добро пожаловать!");
-                Console.ReadKey();
-                return true;
-            }
-            else
-            {
-                Console.WriteLine("Вы ввели неверные данные.");
-                Console.ReadKey();
-                return false;
-            }
+            return (login == "root" && password == "GeekBrains");
         }
 
         static void Main(string[] args)
@@ -47,7 +36,18 @@ namespace Task4_checkData
                 {
                     break;
                 }
+                else
+                {
+                    Console.WriteLine("Вы ввели неверные данные");
+                }
             } while (i < 3);
+
+            switch (i)
+            {
+                case 3: Console.WriteLine("Доступ закрыт"); break;
+                default: Console.WriteLine("Добро пожаловать!"); break;
+            }
+            Console.ReadKey();
         }
     }
 }
